@@ -1,7 +1,3 @@
-const variables = require("./c1-variables");
-const operators = require("./c2-operators");
-const dataTypes = require("./c3-data-types");
+const functions = require("./c4-functions");
 
-// variables();
-// operators();
-dataTypes();
+functions();
