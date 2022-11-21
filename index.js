@@ -1,5 +1,7 @@
-const variables = require("./c1-variables/index");
+const variables = require("./c1-variables");
 const operators = require("./c2-operators");
+const dataTypes = require("./c3-data-types");
 
 // variables();
-operators();
+// operators();
+dataTypes();
