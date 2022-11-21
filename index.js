@@ -1,3 +1,3 @@
-const objects = require("./c5-objects");
+const strings = require("./c6-strings");
 
-objects();
+strings();
