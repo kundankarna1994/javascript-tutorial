@@ -1,3 +1,3 @@
-const functions = require("./c4-functions");
+const objects = require("./c5-objects");
 
-functions();
+objects();
